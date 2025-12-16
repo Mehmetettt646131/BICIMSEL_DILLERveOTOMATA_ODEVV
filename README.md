@@ -1,4 +1,4 @@
-<img width="875" height="198" alt="image" src="https://github.com/user-attachments/assets/0f453cab-646c-4634-819f-f511a4908ebf" /># BICIMSEL_DILLERveOTOMATA_ODEVV
+# BICIMSEL_DILLERveOTOMATA_ODEVV
 Plaka Doğrulama Otomat Uygulaması
 
 Projenin Amacı
@@ -25,6 +25,8 @@ q4 - q6,                   "Harf Grubu (1, 2 veya 3 Harf) okuma aşaması."
 q7,                        Harf grubundan sonraki opsiyonel boşluk.
 q8 - q11,                  "Son Rakam Grubu (2, 3 veya 4 Rakam) okuma aşaması."
 Kabul,"q8, q9, q10, q11    durumunda işlem biterse plaka GEÇERLİDİR."
+
+<img width="875" height="198" alt="image" src="https://github.com/user-attachments/assets/0f453cab-646c-4634-819f-f511a4908ebf" />
 
 Örnek Akış (Girdi: 34 AB 123)
 3 okunur → q1'e geçilir.
